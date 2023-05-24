@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.btn{
+  margin: 2px;;
+}
+.addbtn{
+  float: center;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

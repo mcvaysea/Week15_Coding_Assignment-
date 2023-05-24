@@ -1,0 +1,51 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "FarmerTed",
+      "email": "farmer.ted@inccorp.com",
+      "phone": "8901234567"
+    },
+    {
+      "name": "Sarah Jomes",
+      "email": "sarahjo@inccorp.com",
+      "phone": "4323843736",
+      "active": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Tim Hussy",
+      "email": "timhu@inccorp.com",
+      "phone": "2340981010"
+    },
+    {
+      "name": "Sanja Gupta",
+      "email": "sangup@inccorp.com",
+      "phone": "23498123989",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "Ja Son",
+      "email": "json@inccorp.com",
+      "phone": "3334445483",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "Tom Ward",
+      "email": "toward@inccorp.com",
+      "phone": "9993832192",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "Fisher Price",
+      "email": "fipri@inccorp.com",
+      "phone": "2381912842",
+      "active": true,
+      "id": 9
+    }
+  ]
+}
